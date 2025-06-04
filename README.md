@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Ankur a.k.a. apcoder247
 
-<!--
-**apcoder247/apcoder247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student | Learning Python, C++ & Web Dev | Passionate about tech & building real stuff 💻🚀
 
-Here are some ideas to get you started:
+## 🔧 Currently Learning
+- Python
+- C++
+- Git & GitHub
+- Mini Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Goals for 2025
+- Make 5+ projects in Python
+- Learn Web Dev (HTML, CSS, JS)
+- Contribute to Open Source
+
+Let's connect and grow together 🌱

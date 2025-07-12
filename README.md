@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ankur a.k.a. apcoder247
 
-🎓 B.Tech CSE Student | Learning Python, C++ & Web Dev | Passionate about tech & building real stuff 💻🚀
+🎓 B.Tech CSE Student | Learning Python,C, C++ & Web Dev | Passionate about tech & building real stuff 💻🚀
 
 ## 🔧 Currently Learning
 - Python
